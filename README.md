@@ -171,7 +171,7 @@ npm run dev
 
 - [Chelsey MacNeill](https://github.com/chelseymacneill) - _Back End_ - <p>Worked on backend with a focus on user login. Using MongoDB, Passport, and Redux to allow the user to sign up/login and remain signed in to the site.</p>
 
-- [Loann Pham](https://github.com/loannpham87) - _Front End_ - <p>Initial setup of React folder structure. Setup of GitHub repo and Kanban board. UI/UX design for all front-end pages. Creating components with React for front-end pages. Heroku deployment. And a sick Readme.</p>
+- [Loann Pham](https://github.com/loannpham87) - _Front End_ - <p>Initial setup of React Native folder structure. UI/UX design for all front-end pages. Creating components with React for front-end pages. And a sick Readme.</p>
 
 - [Jonah Severn](https://github.com/jsevern94) - _Back End_ - <p>contributions</p>
 

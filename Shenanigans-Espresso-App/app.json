@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Shenanigans-Espresso-App",
-    "slug": "Shenanigans-Espresso-App",
+    "name": "Shenanigans Espresso App",
+    "slug": "shenanigans-espresso-app",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [

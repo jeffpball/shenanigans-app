@@ -8,12 +8,15 @@ export default function App() {
 			<View style={styles.header}>
 				<Text style={styles.header}>Shenanigans Espresso App</Text>
 				<View style={styles.buttons}>
-					<Button style={styles.buttons}
+					<Button
+						style={styles.buttons}
 						title='Login'
 						icon={{ name: 'code' }}
 						onPress={() => Alert.alert('Login button pressed')}
 					/>
-					<Button style={styles.buttons}
+
+					<Button
+						style={styles.buttons}
 						title='Signup'
 						icon={{ name: 'code' }}
 						onPress={() => Alert.alert('Signup button pressed')}
@@ -32,9 +35,9 @@ const styles = StyleSheet.create({
 		justifyContent: 'center'
 	},
 	header: {
-    fontSize: 25,
+		fontSize: 25
 	},
 	buttons: {
-    margin: 20,
+		margin: 20
 	}
 });

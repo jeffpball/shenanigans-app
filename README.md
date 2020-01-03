@@ -3,7 +3,7 @@
 <br>
 <p>Shenanigans Espresso App was created for local business owners of Shenanigans Espresso, Bridgett and Mel, located in Everett, WA. Bridgett and Mel's goals are to make life easier for their customers by having a mobile app built so they could put their coffee and food order in ahead of time, pay through the app, pickup at a desired time, and go about their day seamlessly and efficiently.</p>
 
-[Heroku Link](https://https://shenanigans-espresso-app.herokuapp.com/ "Shenanigans-Espresso-App - Heroku")
+[Heroku Link](https://shenanigans-espresso-app.herokuapp.com/ "Shenanigans-Espresso-App - Heroku")
 
 ## Getting Started
 

@@ -8,7 +8,6 @@ export default function App() {
       <Text>Shenanigans Espresso App</Text>
       <Button title='Login' icon={{ name: 'code' }} />
       <Button title='Signup' icon={{ name: 'code' }} />
-
     </View>
   );
 }

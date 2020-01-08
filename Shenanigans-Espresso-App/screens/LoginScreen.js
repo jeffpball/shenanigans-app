@@ -1,12 +1,12 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-const LoginScreen = props => {};
+const LoginScreen = props => {
     return (
         <View style={styles.screen}>
             <Text>Login below!</Text>
         </View>
-    )
+    )};
 
 const styles = Stylesheet.create({
     screen: {

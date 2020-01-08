@@ -1,10 +1,9 @@
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
 import { StyleSheet, Text, View, Alert } from 'react-native';
 import { Button } from 'react-native-elements';
 
 
-const InitialLoadingScreen = props => {};
+const InitialLoadingScreen = props => {
 return (
 	<View style={styles.screen}>
 		<Text>Login or Signup</Text>
@@ -27,7 +26,7 @@ return (
 			</View>
 		</View>
 	</View>
-);
+)};
 
 const styles = Stylesheet.create({
 	screen: {

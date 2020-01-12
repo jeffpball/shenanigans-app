@@ -1,14 +1,15 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-const HomeScreen = props => {};
+const HomeScreen = props => {
     return (
         <View style={styles.screen}>
             <Text>Menu, Order, Cards, History</Text>
         </View>
     )
+};
 
-const styles = Stylesheet.create({
+const styles = StyleSheet.create({
     screen: {
         flex: 1,
         justifyContent: 'center',

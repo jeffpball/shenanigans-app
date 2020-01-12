@@ -1,14 +1,14 @@
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import { StyleSheet, View, Text } from 'react-native';
 
-const SignupScreen = props => {};
+const SignupScreen = props => {
     return (
         <View style={styles.screen}>
             <Text>Signup below!</Text>
         </View>
     )
-
-const styles = Stylesheet.create({
+};
+const styles = StyleSheet.create({
     screen: {
         flex: 1,
         justifyContent: 'center',
